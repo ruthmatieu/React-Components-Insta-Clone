@@ -19,6 +19,7 @@ import Comments from './components/Comments/Comments';
 
 // Import the dummyData
 import dummyData from './dummy-data';
+
 import './App.css';
 
 const App = () => {
